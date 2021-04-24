@@ -2,7 +2,7 @@
 
 # Storing Bearer Token in Spring
 
-Learn how you can retrieve and store a bearer token before passing through the REST endpoint code.
+Learn how you can retrieve and store a bearer token before passing through the REST endpoint.
 
 Store the token so that you can use it later, if you want to call another secured service.
 
