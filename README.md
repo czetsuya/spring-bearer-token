@@ -4,7 +4,7 @@
 
 Learn how you can retrieve and store a bearer token before passing through the REST endpoint code.
 
-Store the token so that you can use it later on if you want to call another secured service.
+Store the token so that you can use it later, if you want to call another secured service.
 
 ##  Installation and Deployment
 
