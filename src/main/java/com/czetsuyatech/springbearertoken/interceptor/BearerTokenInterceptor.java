@@ -4,6 +4,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.HandlerInterceptor;
 
+/**
+ * @author Edward P. Legaspi | czetsuya@gmail.com
+ */
 public class BearerTokenInterceptor implements HandlerInterceptor {
 
   private BearerTokenWrapper tokenWrapper;
