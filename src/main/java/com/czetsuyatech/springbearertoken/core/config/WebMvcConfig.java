@@ -1,4 +1,4 @@
-package com.czetsuyatech.springbearertoken.config;
+package com.czetsuyatech.springbearertoken.core.config;
 
 import com.czetsuyatech.springbearertoken.interceptor.BearerTokenInterceptor;
 import com.czetsuyatech.springbearertoken.interceptor.BearerTokenWrapper;
