@@ -23,6 +23,6 @@ public class BookController {
 
     System.out.println("token=" + tokenWrapper.getToken());
 
-    return "books";
+    return "tokenValue=" + tokenWrapper.getToken();
   }
 }
