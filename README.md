@@ -1,5 +1,3 @@
-*If you would like to support these tutorials, you can contribute to my [Patreon account](https://patreon.com/czetsuya)
-
 # Storing Bearer Token in Spring
 
 Learn how you can retrieve and store a bearer token before passing through the REST endpoint.
