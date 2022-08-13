@@ -4,6 +4,8 @@ Learn how you can retrieve and store a bearer token before passing through the R
 
 Store the token so that you can use it later, if you want to call another secured service.
 
+Blog: https://www.czetsuyatech.com/2021/04/spring-rest-bearer-token.html
+
 ##  Installation and Deployment
 
 For this exercise, we won't be needing an authentication/authorization server like Keycloak. We will just use a 
